@@ -13,7 +13,7 @@ Name: Mohem Token
 Symbol: MOH
 Chain: BNB Smart Chain (BEP-20)
 Decimals: 18
-Contract: 0xA041a7FD24D59d6E1e5D3c80044264F7eD3D8121
+Contract:  0xA041a7FD24D59d6E1e5D3c80044264F7eD3D8121
 Total Supply: 1,000,000,000 MOH
 Current Wallet Balance: 999,988,479.59706 MOH
 Price: 1 MOH = 1 USD (public sale)
@@ -50,7 +50,7 @@ Community & Resources
 
 Website: https://www.trustwdu.com
 GitHub: https://github.com/tejaratpol1402/mohem-token
-Whitepaper: https://github.com/tejaratpol1402/mohem-token/blob/main/whitepaper.pdf
+Whitepaper: https://raw.githubusercontent.com/tejaratpol1402/mohem-token/main/whitepaper.pdf
 Telegram: https://t.me/MohemToken
 X: https://x.com/mohem2096092
 LinkedIn: https://www.linkedin.com/in/mohem-token/
@@ -62,6 +62,10 @@ Manager: Ali Rezaei - Oversees project strategy.
 Accountant: Sara Hosseini - Manages financials.
 Game Developer: Mohammad Khan - Leads Play-to-Earn development.
 Blockchain Engineer: Reza Ahmadi - Handles smart contracts.
+
+Contracts
+
+Source Code: MohemToken.sol
 
 Disclaimer
 This is not financial advice. Always conduct your own research (DYOR) before investing.
