@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mohem Token (MOH)</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        h1 { color: #2c3e50; }
+        a { color: #3498db; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <h1>Mohem Token (MOH)</h1>
+    <p>A decentralized token on the BNB Smart Chain (BEP-20) launched in July 2025.</p>
+    
+    <h2>Token Details</h2>
+    <ul>
+        <li><strong>Name:</strong> Mohem Token</li>
+        <li><strong>Symbol:</strong> MOH</li>
+        <li><strong>Contract:</strong> <a href="https://bscscan.com/address/0xA041a7FD24D59d6E1e5D3c80044264F7eD3D8121">0xA041a7FD24D59d6E1e5D3c80044264F7eD3D8121</a></li>
+        <li><strong>Total Supply:</strong> 1,000,000,000 MOH</li>
+        <li><strong>Price:</strong> 1 MOH = 1 USD</li>
+    </ul>
+
+    <h2>Public Sale</h2>
+    <ul>
+        <li><strong>Start Date:</strong> August 10, 2025</li>
+        <li><strong>End Date:</strong> Ongoing</li>
+    </ul>
+
+    <h2>Community Links</h2>
+    <ul>
+        <li><a href="https://www.trustwdu.com">Website</a></li>
+        <li><a href="https://t.me/MohemToken">Telegram</a></li>
+        <li><a href="https://x.com/mohem2096092">X</a></li>
+        <li><a href="https://www.linkedin.com/in/mohem-token/">LinkedIn</a></li>
+        <li><a href="https://www.reddit.com/r/MohemToken">Reddit</a></li>
+        <li><a href="https://www.facebook.com/profile.php?id=61579320570506">Facebook</a></li>
+        <li><a href="https://www.instagram.com/mohem2096092/">Instagram</a></li>
+    </ul>
+
+    <p><strong>Disclaimer:</strong> This is not financial advice. Always DYOR before investing.</p>
+</body>
+</html>
