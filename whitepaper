@@ -1,0 +1,290 @@
+# Mohem Token — Listings & Press Pack (v1.1, English)
+
+> Drop‑in content for your website, GitHub, and listing forms (CoinMarketCap / CoinGecko / BscScan). Copy/paste anywhere. All sections are in English.
+
+---
+
+## 1) UPDATED WHITEPAPER (v1.1 – English)
+
+### Executive Summary
+
+**Mohem Token (MOH)** is a BEP‑20 token on **BNB Smart Chain** focused on low‑fee payments for local businesses, accessible blockchain education for newcomers, and a **Play‑to‑Earn (P2E)** ecosystem. We emphasize **security, transparency, and incremental delivery**.
+
+* **Network:** BNB Smart Chain (BEP‑20)
+* **Contract Address:** `0xA041a7FD24D59d6E1e5D3c80044264F7eD3D8121`
+* **Total Supply:** 1,000,000,000 MOH
+* **DEX Listings:** PancakeSwap, ApeSwap (BNB pairs)
+* **BscScan Status:** Contract submitted for verification/tagging (pending)
+
+> Pricing note: Market price is determined by **supply & demand**. Any public sale price is a **target** for the initial sale and is not guaranteed in secondary markets.
+
+---
+
+### Problem & Solution
+
+1. **Fees & Speed:** Micro‑payments are costly on congested chains.
+   **Solution:** Use BNB Smart Chain for fast, low‑fee settlement and common wallets.
+
+2. **Practical Education:** Newcomers face scattered, non‑practical resources.
+   **Solution:** A structured learning portal (EN/FA) with step‑by‑step content and completion certificates.
+
+3. **Engagement:** Users and builders need incentives.
+   **Solution:** Lightweight P2E web/mobile games with MOH rewards + developer bounties.
+
+---
+
+### Architecture & Technology
+
+* **Smart Contract:** BEP‑20 with role‑based controls and optional pause functionality.
+* **Wallets:** MetaMask, Trust Wallet (BSC).
+* **Security:** Multi‑sig treasury, role restrictions, liquidity locks, vesting contracts for team/marketing.
+
+**Audit Plan:**
+
+* **Phase 1 (fast):** A baseline audit by a reputable tier‑2 firm (e.g., Hashex/Dessert/TechRate).
+* **Phase 2 (formal):** Full audit by CertiK/SlowMist; publish the PDF and on‑chain verification links on the website.
+
+---
+
+### Tokenomics
+
+* **Total Supply:** 1,000,000,000 MOH
+* **Public Allocation:** 50% = 500,000,000
+* **Team:** 10% = 100,000,000
+
+  * **Vesting:** 12‑month cliff, then linear over 18 months
+* **Marketing & Listings:** 15% = 150,000,000
+
+  * **Vesting:** 6‑month cliff, then linear over 12 months
+* **Development (Dev/Grants):** 15% = 150,000,000
+
+  * **Vesting:** 3‑month cliff, then linear over 12 months
+* **Reserve/Treasury:** 10% = 100,000,000 (for LP/top‑ups/grants via DAO)
+
+**Liquidity:**
+
+* PancakeSwap/ApeSwap liquidity pools to be **locked for at least 12 months**. After lock creation, publish tx hashes and locker links on the website.
+
+**Burn Policy:**
+
+* Programmed, event‑based burns up to **10%** of total supply, **subject to DAO vote** and treasury conditions. All burns on‑chain and verifiable.
+
+---
+
+### Utility
+
+* **Micro‑Payments:** Lightweight merchant API + QR invoicing.
+* **Education Access:** Course discounts and NFT completion certificates.
+* **P2E:** Game rewards and tournaments with anti‑cheat basics.
+* **Governance (DAO):** Voting on parameters, burns, grants.
+
+---
+
+### Roadmap
+
+**Q3 2025**
+
+* Finalize listing docs, launch Transparency Status page, set up & lock LPs, complete Audit Phase 1.
+
+**Q4 2025**
+
+* MVP for QR payments + Education Portal (Phase 1, 10 lessons).
+* P2E web beta.
+* Submit to secondary data aggregators (LiveCoinWatch, CoinPaprika, Nomics, CryptoRank).
+
+**Q1 2026**
+
+* Audit Phase 2 (formal), Payment App v1 (merchant plugin), Burn Event #1.
+* NFT credentials for education.
+
+**Q2–Q4 2026**
+
+* DAO voting live, developer grants, mobile P2E.
+
+**2027**
+
+* Expansion with local PSP partners, cross‑chain capabilities.
+
+---
+
+### Transparency & Reporting
+
+* **Transparency Status Page** with contract links, LP lock proofs, audit reports, treasury wallets, and monthly reports.
+* **Monthly Reports:** Progress, KPIs, and burn/LP snapshots.
+
+---
+
+### Team & Governance
+
+* **Manager:** Ali Rezaei (LinkedIn)
+* **Accountant:** Sara Hosseini
+* **Game Developer:** Mohammad Khan
+* **Blockchain Engineer:** Reza Ahmadi
+* **KYC:** Team KYC to be completed; result and verification link published on the website.
+
+---
+
+### Legal Notice
+
+Nothing herein constitutes investment advice. Crypto assets carry market and technical risks. Do your own research (DYOR).
+
+---
+
+## 2) WEBSITE COPY (English)
+
+**Navigation:** Home · About · Tokenomics · How to Buy · Roadmap · Transparency · Whitepaper · Community · Contact
+
+**Hero**
+**Headline:** Fast, low‑fee payments + Education & P2E with Mohem Token
+**Buttons:** Buy on PancakeSwap · View Contract · Read Whitepaper
+
+**About**
+Three pillars: (1) low‑fee micro‑payments, (2) hands‑on education, (3) P2E incentives for users/builders. Include a link to your MVP/Demo when live.
+
+**Tokenomics**
+Pie chart + table with allocations and vesting/lock rules (as in Tokenomics section). Publish LP lock links once created.
+
+**How to Buy (4 steps)**
+
+1. Add BNB Smart Chain in MetaMask/Trust Wallet.
+2. Import MOH contract: `0xA041a7FD24D59d6E1e5D3c80044264F7eD3D8121`.
+3. Swap BNB → MOH on PancakeSwap or ApeSwap.
+4. If slippage occurs, start with 0.5% and adjust slightly.
+
+**Roadmap**
+Timeline 2025–2027 (from the whitepaper).
+
+**Transparency**
+Links to: contract on BscScan, LP lock proofs, audit reports (Phase 1 & 2), treasury wallets, monthly reports.
+
+**Community**
+Telegram · X (Twitter) · Reddit · LinkedIn · Instagram · Facebook.
+
+**Footer**
+Copyright, official emails, Terms/Privacy, risk warning.
+
+---
+
+## 3) SEO META (paste into <head>)
+
+* Title: Mohem Token (MOH) — Low‑Fee Payments, Education & P2E on BNB Smart Chain
+* Description: Mohem Token (MOH) is a BEP‑20 project focused on fast, low‑fee payments, practical blockchain education, and a Play‑to‑Earn ecosystem — with security, transparency, and community at its core.
+* OpenGraph/Twitter: title, description, logo (SVG/PNG 200×200), site name, contract address.
+
+---
+
+## 4) FAQ (for the website and listing forms)
+
+**What is Mohem Token (MOH)?**
+A BEP‑20 token on BNB Smart Chain designed for low‑cost payments, education, and P2E incentives.
+
+**Is there an audit?**
+Audit Phase 1 is planned with a reputable firm; Phase 2 with CertiK/SlowMist. Reports will be published on the website.
+
+**Is liquidity locked?**
+Yes. LPs on PancakeSwap/ApeSwap will be locked for at least 12 months. Proof links will be added to the Transparency page.
+
+**How are team tokens vested?**
+12‑month cliff, then linear release over 18 months.
+
+**How can merchants use MOH?**
+A lightweight payment API and QR invoicing will be provided. Early pilot merchants can apply via the Contact page.
+
+---
+
+## 5) CMC / CG SUBMISSION TEXT (copy/paste)
+
+**Short Description (≤250 chars):**
+Mohem Token (MOH) is a BEP‑20 project on BNB Smart Chain focused on low‑fee payments, practical blockchain education, and a Play‑to‑Earn ecosystem — built with security, transparency, and community in mind.
+
+**Long Description (\~700–900 chars):**
+Mohem Token (MOH) enables fast, low‑fee micro‑payments on BNB Smart Chain while delivering hands‑on blockchain education and a Play‑to‑Earn (P2E) ecosystem. The project prioritizes security and transparency through multi‑sig treasury, liquidity locks, vesting schedules for team/marketing, and a two‑phase audit plan (a baseline audit followed by a formal certification). Utility includes merchant QR payments, course access with NFT credentials, P2E rewards, and DAO governance. Liquidity for PancakeSwap/ApeSwap will be locked for at least 12 months; proof links and reports will be published on the Transparency page. The roadmap covers MVPs for payments and education, P2E web beta, DAO voting, and developer grants through 2026–2027.
+
+**Tags:** Payments · Education · Play‑to‑Earn · BNB Chain · Governance
+
+**Contract:** `0xA041a7FD24D59d6E1e5D3c80044264F7eD3D8121`
+
+**Official Links:** Website · Whitepaper (PDF) · GitHub · Telegram · X · Reddit · LinkedIn · Instagram · Facebook
+
+---
+
+## 6) BscScan VERIFICATION CHECKLIST
+
+* Flattened source code (exact compiler version & optimization flags).
+* Contract metadata: name, symbol, decimals, supply.
+* Public ownership info (renounced or role details).
+* Verified contract on BscScan with published read/write functions.
+* Add socials & logo via BscScan token profile request.
+
+---
+
+## 7) SECONDARY DATA AGGREGATORS (submit after CMC/CG forms)
+
+* LiveCoinWatch · CoinPaprika · Nomics · CryptoRank · CoinCodex · CoinCheckup · CoinLore
+
+---
+
+## 8) PRESS & COMMUNITY BOILERPLATE
+
+**Press Boilerplate:**
+Mohem Token (MOH) is a BEP‑20 token on BNB Smart Chain enabling low‑fee micro‑payments, practical education, and a Play‑to‑Earn ecosystem. With an emphasis on audits, liquidity locks, and transparent reporting, Mohem aims to onboard newcomers and support local businesses with simple crypto tools.
+
+**30‑Second Pitch (spoken):**
+“Mohem is a BNB‑chain token designed for fast, low‑fee payments, with an education portal and P2E rewards to get newcomers engaged. We lock liquidity, vest team tokens, and publish monthly transparency reports. Our goal is simple: make crypto payments and learning usable for everyday people.”
+
+**Email Template (exchanges/partners):**
+Subject: Mohem Token (MOH) Listing Inquiry
+Body: Hello \[Name],\nWe’re Mohem Token (MOH), a BEP‑20 on BNB Chain focused on payments, education, and P2E. Contract: 0xA041…D8121. We have LP locks and a two‑phase audit plan. Whitepaper and docs are on our site. Could we discuss listing/submission requirements?\nBest regards,\nMohem Team — [info@trustwdu.com](mailto:info@trustwdu.com)
+
+---
+
+## 9) BRAND ASSETS REQUIREMENTS
+
+* Logo: SVG/PNG 200×200 (transparent).
+* Token icon in 64×64 and 128×128.
+* Color palette and typography for consistent visuals.
+* Social headers (Twitter/Telegram/Reddit) 1500×500.
+
+---
+
+## 10) GITHUB README (drop‑in)
+
+**Mohem Token (MOH)** — BEP‑20 on BNB Smart Chain for low‑fee payments, education, and P2E.
+
+* Contract: `0xA041a7FD24D59d6E1e5D3c80044264F7eD3D8121`
+* Docs: Whitepaper v1.1 (EN), Transparency page, monthly reports.
+* Security: multi‑sig treasury, LP locks (12m), vesting contracts, two‑phase audits.
+* Roadmap: Payments MVP, Education Portal, P2E beta, DAO, grants.
+
+**Links**
+Website · Whitepaper (PDF) · GitHub · BscScan · PancakeSwap · ApeSwap · Telegram · X · Reddit · LinkedIn · Instagram · Facebook
+
+---
+
+## 11) “HOW TO BUY” WIDGET COPY
+
+1. Connect wallet (MetaMask/Trust Wallet).
+2. Select BNB Chain.
+3. Import MOH: `0xA041a7FD24D59d6E1e5D3c80044264F7eD3D8121`.
+4. Swap BNB → MOH on PancakeSwap/ApeSwap.
+5. Start with low slippage (0.5%) and adjust if needed.
+
+---
+
+## 12) TRANSPARENCY PAGE STRUCTURE (for your site)
+
+* Contract & token profile links (BscScan).
+* LP lock proofs with tx hashes.
+* Audit reports (Phase 1 PDF, Phase 2 PDF).
+* Treasury wallets + monthly CSV snapshots.
+* Burn events: on‑chain tx links.
+
+---
+
+## 13) NEXT ACTIONS (do these now)
+
+1. Generate and upload the English PDF whitepaper v1.1.
+2. Add the Website copy above to trustwdu.com (English default).
+3. Create a Transparency page and publish proofs (as available).
+4. Start Audit Phase 1 with a tier‑2 auditor and add the booking link on the site.
+5. Post daily on X and run weekly AMA on Telegram; cross‑post to Reddit.
