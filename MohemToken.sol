@@ -203,4 +203,5 @@ contract TeamToken is ERC20 {
         require(account != address(0), "[Validation] burn from zero address");
         _transfer(account, address(0), amount);
     }
+
 }
