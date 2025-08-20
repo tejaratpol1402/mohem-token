@@ -1,0 +1,20 @@
+{
+  "name": "Mohem Token List",
+  "logoURI": "https://raw.githubusercontent.com/tejaratpol1402/mohem-token/main/logo.png",
+  "timestamp": "2025-08-19T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xA041a7FD24D59d6E1e5D3c80044264F7eD3D8121",
+      "name": "Mohem",
+      "symbol": "MOH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/tejaratpol1402/mohem-token/main/logo.png"
+    }
+  ]
+}
